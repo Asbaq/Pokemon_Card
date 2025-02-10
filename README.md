@@ -5,6 +5,10 @@
 ## 📌 Introduction
 **Pokémon Card Collection** is a Unity-based mobile app that allows users to explore and collect data on various Pokémon from the Pokémon API. With a smooth and interactive interface, users can swipe through cards to view Pokémon details such as images, stats, and more. This app features a custom object pool system to efficiently manage UI elements and provides a scrolling system to browse through the Pokémon collection.
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/ei_mlzkEfvE?si=zWwPN78cLeX34EoB
+
 ## 🔥 Features
 - 🎮 **Swipe Navigation**: Smooth swipe interactions to navigate through Pokémon cards.
 - 🐾 **Pokémon Details**: Fetches Pokémon data including name, stats, and images from the Pokémon API.
